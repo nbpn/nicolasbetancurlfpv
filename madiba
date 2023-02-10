@@ -1,0 +1,23 @@
+<html> 
+	<head>
+		<meta charset="utf-8" />
+            <title>Ma Petite Page Web</title>
+            <link href="css/estilos.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+            <h1>Les Reseaux Sociaux</h1>
+            
+  		<a href="https://drive.google.com/file/u/2/d/1BPcZebcgv3Bl8xoHhpd3ZQXseFyjfqr3/view?usp=sharing&pli=1">
+                <li>Istagram</li>
+		</a>
+  		<a href="https://docs.google.com/presentation/d/1eFOGEpU7Gi_lVbfoFA0XDG7FI2v-SBuPOpMOERtVtB8/edit#slide=id.g17f8dc70941_2_0">
+                <li>Snpachat</li>
+		</a>
+		    <li> HOME </li>	
+		
+          <a href="https://nbpn.github.io/nicolasbetancurlfpv/mapageweb.html">
+
+                <img src="HOME.png" length="500" width="500">
+		</a>
+	</body>
+</html> 
